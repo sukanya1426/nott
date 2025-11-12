@@ -45,7 +45,7 @@ simple-notes-app/
 
 ```bash
 cd backend
-npm install express cors
+npm install express cors dotenv nodemon
 node server.js
 ```
 
@@ -78,6 +78,6 @@ If using an Android emulator, replace `localhost` with your machine IP in `api_s
 ## 👨‍💻 Authors
 
 - Salsabila and Sukanya 🚀
-  Full-stack explorers learning one project at a time!
+- Full-stack explorers learning one project at a time!
 
 ---
